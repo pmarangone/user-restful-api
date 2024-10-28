@@ -19,6 +19,7 @@ Caso seja feita a troca dos valores do `.env.example`, mude os valores de acordo
 
 #### Endpoints disponíveis e exemplos de requisições:
 A aplicação possui os seguintes endpoints para operações CRUD de usuários.
+Você também pode usar o arquivo `zaros.postman_collection.json`, na root do projeto, para executar as requisições.
 
 1. Listagem de usuários
    * Endpoint: `GET /users`
