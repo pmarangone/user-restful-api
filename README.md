@@ -5,7 +5,7 @@
 Este projeto é uma aplicação de gerenciamento de usuários que permite criar, listar, atualizar e deletar registros de usuários com filtros específicos.
 
 #### Como configurar o ambiente:
-1. Clone o repositório: `git clone `
+1. Clone o repositório: `git clone https://github.com/pmarangone/user-restful-api.git`
 2. Execute o comando `yarn install` para instalar as dependências.
 3. Configure o arquivo `.env` baseado no arquivo `.env.example`.
 Caso seja feita a troca dos valores do `.env.example`, mude os valores de acordo no arquivo `docker-compose.yml`
